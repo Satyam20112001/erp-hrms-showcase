@@ -56,6 +56,10 @@ One web portal with a desk for each department: store, accounts, quality, dispat
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp%20automation-25D366?logo=whatsapp&logoColor=white)
 
+## Roadmap
+
+What is done, in progress and next: **[Business Automation Roadmap board](https://github.com/users/Satyam20112001/projects/2)**
+
 ## Want something like this?
 
 I build custom portals, automations and dashboards on Google Sheets / Apps Script, Power BI and SQL for small and mid-size businesses.
